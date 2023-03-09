@@ -2,4 +2,4 @@
 
 
 
-click to visit website: https://github.com/leewikki/coffee.git
+click to visit website: https://github.com/leewikki/coffee/.git
